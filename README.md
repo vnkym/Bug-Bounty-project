@@ -1,5 +1,8 @@
 # Bug-Bounty-project
 Bug Bounty project for CSCE 5550 Group 14 and 5560 Sec002 Group 21 &amp; Sec 001 Group 10
+**************************************************** NOTE ****************************************************************************
+THE DETAILS MENTIONED BELOW BY US ARE NOT PROVED TO BE THE ACTUAL VULNERABILITIES AND WE ARE CURRENTLY CONSIDERING THEM AS THE POTENTIAL VULNERABILITIES AND I REPEAT NOT THE VULNERABILITIES UNLESS CONFIRMED BY THE SHOPIFY TEAM
+*****************************************************************************************************************************************
 We start our exploitation by scanning the number of open ports for connectivity and as well as the number of domains and subdomains shopify has, I developed a keen interest on shopify.com and shopifykloud.com. I used assetfinder public repo (can be accessed on GitHub) to find shopify wildcards and domains
 This generated a list of shopifykloud.com domains below and throw them into a file containing 
 domains using the “anew domains” code refer to video1 file. 
